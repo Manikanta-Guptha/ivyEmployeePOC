@@ -11,6 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.department.service.DepartmentService;
 import com.example.department.vo.Employee;
 
+/**
+ * 
+ * @author N.Chitturi
+ *
+ */
 @RestController
 @RequestMapping("/department")
 public class DepartmentController {
